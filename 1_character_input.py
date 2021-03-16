@@ -9,7 +9,7 @@ of the previous message.
 
 from datetime import datetime
 
-user_name = input("What's your name?\n")
+user_name = input("\nWhat's your name?\n")
 user_age = int(input("\nHow many years of age do you complete this year?\n"))
 number_of_copies = int(input("\nInput a random number:\n"))
 
