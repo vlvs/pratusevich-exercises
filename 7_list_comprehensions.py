@@ -11,5 +11,5 @@ even_list = [number for number in random_list if number % 2 == 0]
 print(f'''
 The random list:\n{sorted(random_list)}
 
-The list containing only its even elemenets:\n{sorted(even_list)}
+The list containing only its even elements:\n{sorted(even_list)}
 ''')
