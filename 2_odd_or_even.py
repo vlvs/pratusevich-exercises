@@ -3,7 +3,7 @@ Ask the user for a number. Print out a message stating whether the
 number is odd or even.
 
 Extras:
-1. If the number is a multiple of 4, print out a different message.
+1. If the number is a multiple of 4, print out a different message;
 2. Ask the user for two numbers: divide one by the other and print out 
 a message stating whether one divided evenly into the other or not.
 '''
