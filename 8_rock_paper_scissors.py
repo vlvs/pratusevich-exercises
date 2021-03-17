@@ -43,8 +43,7 @@ def resolve_play():
 
 def play_again():
     play_again = input("Play again? (Y/n) ")
-    if play_again.upper() == "Y":
-        play()
+    if play_again.upper() == "Y": play()
 
 def play():
     get_first_move()
