@@ -1,6 +1,6 @@
 '''
-Ask the user for a number and determine whether the number is prime or 
-not. Create functions for the solution.
+Ask the user for a number and determine whether the number is prime. 
+Define functions for the solution.
 '''
 
 def get_user_input():
