@@ -33,9 +33,6 @@ def get_password_strength():
     if password_strength.lower() == "so-so": password_strength = "2"
     if password_strength.lower() == "strong": password_strength = "3"
 
-def generate_weak_password():
-    return ''.join(random.choices(fruits, k = 2))
-
 def generate_password(strength):
     if password_strength == "1": return ''.join(random.choices(fruits, k = 2))
     password = []; chars_per_group = 2
