@@ -3,7 +3,7 @@ Write a function that takes a list and returns a new list that contains
 all the elements of the first list minus all the duplicate elements.
 
 Extra: Write two different functions to do this, one using a loop to 
-construsct the new list, another using sets.
+construct the new list, another using sets.
 '''
 
 sample_list = ["Arya", "Daenerys", "Daenerys", "Ygritte", "Ygritte"]
